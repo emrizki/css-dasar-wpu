@@ -1,0 +1,16 @@
+h1 {
+  font-size: 100px;
+  color: rgb(115, 80, 212);
+  text-decoration: line-through;
+}
+
+p {
+  text-indent: 50px;
+  word-spacing: 10px;
+  letter-spacing: 10px;
+  text-transform: capitalize;
+}
+
+a {
+  text-decoration: none;
+}
