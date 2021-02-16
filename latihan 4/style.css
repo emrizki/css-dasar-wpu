@@ -1,0 +1,6 @@
+body {
+  background-color: lightblue;
+  background-image: url(gambar/more-leaves.png);
+  background-repeat: repeat-x;
+  background-position: top right;
+}
