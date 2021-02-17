@@ -1,0 +1,23 @@
+.hello-world:hover {
+  font-size: 50px;
+}
+
+.hello-world:active {
+  color: red;
+}
+
+li:first-child a {
+  color: red;
+}
+
+li:last-child a {
+  color: green;
+}
+
+li:nth-child(4) a {
+  color: orange
+}
+
+p:first-of-type {
+  color: red;
+}
